@@ -24,3 +24,8 @@ Statistics Computed
 1.counts of each user type
 2.counts of each gender (only available for NYC and Chicago)
 3.earliest, most recent, most common year of birth
+
+
+
+
+
