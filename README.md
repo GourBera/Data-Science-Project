@@ -1,31 +1,22 @@
-# Project_Explore-US-Bikeshare-Data
-
+Created an interactive application which computes various statistics on US Bikeshare Data and presents to the user. 
 
 Statistics Computed
-1 Popular times of travel (i.e., occurs most often in the start time)
 
-1.most common month
-2.most common day of week
-3.most common hour of day
+# Popular times of travel (i.e., occurs most often in the start time)
+      1. Most common month
+      2. Most common day of the week
+      3. Most common hour of the day
 
-2 Popular stations and trip
+# Popular stations and trip
+      1. Most common start station
+      2. Most common end station
+      3. Most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-1.most common start station
-2.most common end station
-3.most common trip from start to end (i.e., most frequent combination of start station and end station)
+# Trip duration
+     1. Total travel time
+     2. Average travel time
 
-3 Trip duration
-
-1.total travel time
-2.average travel time
-
-4 User info
-
-1.counts of each user type
-2.counts of each gender (only available for NYC and Chicago)
-3.earliest, most recent, most common year of birth
-
-
-
-
-
+# User info
+     1. Counts of each user type
+     2. Counts of each gender (only available for NYC and Chicago)
+     3. Earliest, Most recent, Most common year of birth 
